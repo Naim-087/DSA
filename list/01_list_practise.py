@@ -19,3 +19,5 @@ print(f"Updated (Remove 600): {list_m}")
 # e) Remove Element by index
 list_m.pop(0)
 print(f"Updated (Remove Index 0): {list_m}")
+
+
